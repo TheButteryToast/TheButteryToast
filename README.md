@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a Linux distro
 - 😄 Pronouns: she/they
-- ⚡ Fun fact: I like ubuntu
+- ⚡ Fun fact: I like pikmin
 
 <!---
 TheButteryToast/TheButteryToast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
