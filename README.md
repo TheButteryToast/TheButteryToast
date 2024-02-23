@@ -2,7 +2,6 @@
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a Linux distro
-- 😄 Pronouns: she/they
 - ⚡ Fun fact: I like pikmin
 
 <!---
