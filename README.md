@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on a Linux distro
-- ⚡ Fun fact: I like pikmin
+- ⚡ Fun fact: I like Linux
 
 <!---
 TheButteryToast/TheButteryToast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
