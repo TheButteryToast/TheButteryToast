@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheButteryToast
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on a Linux distro
 - ⚡ Fun fact: I like pikmin
 
